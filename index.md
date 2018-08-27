@@ -1,6 +1,5 @@
 ---
 layout: page
-![My Logo](https://charwak.github.io/pilot/assets/images/calogo.png)
 title: Pilot
 description: Minimal tutorial on making a simple website with GitHub Pages
 ---
