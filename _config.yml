@@ -10,6 +10,8 @@ highlighter: rouge
 #
 title-img : "assets/images/calogo.png"
 title : Pilot Site
+avatar: https://charwak.github.io/pilot/assets/images/calogo.png
+theme: minimal
 author :
   name : Charwak Apte
   email : charwak.s.apte@gmail.com
