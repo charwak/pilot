@@ -1,6 +1,6 @@
 ---
 layout: page
-[My Logo](https://octodex.github.com/images/yaktocat.png) title: Pilot
+![My Logo](https://octodex.github.com/images/yaktocat.png) title: Pilot
 description: Minimal tutorial on making a simple website with GitHub Pages
 ---
 
